@@ -2,3 +2,5 @@
 Term Project based on the paper "Dynamic Multiscale Graph Neural Networks for 3D Skeleton-Based Human Motion Prediction" by Maosin Li et al (2020, CVPR).
 
 This repository contains the implementation and experiments of the DMGNN Network introduced by the paper mentioned above.
+
+You may ignore this repo.
